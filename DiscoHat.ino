@@ -44,10 +44,10 @@ void colorsInParallel(){
 // all blue are on, then all red and so on
 void colorsInSequence(){
   blueon();
-  delay(750);              // wait for a second
+  delay(750);              // wait for almost a second
   blueoff();
   redon();
-  delay(750);              // wait for a second
+  delay(750);              // wait for almost a second
   redoff();
 }
 // LEDs are turnd of in sequence
