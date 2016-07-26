@@ -39,7 +39,7 @@ void colorsInParallel(){
   delay(1000);              // wait for a second
   blueoff();
   redoff();
-  delay(750);              // wait for a second
+  delay(750);              // wait for almost a second
 }
 // all blue are on, then all red and so on
 void colorsInSequence(){
